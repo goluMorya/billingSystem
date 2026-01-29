@@ -1,1 +1,2 @@
-hi i am golu maurya 
+# This Project is Billing project
+It is written pure c programming language
